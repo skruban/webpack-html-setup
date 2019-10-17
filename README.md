@@ -1,11 +1,13 @@
 *To run*
 
 Step 1:
-clone the repositories
+clone the repository
 
 Step 2:
 >npm i
+
 >npm build
+
 >npm install
 
 Reference:
