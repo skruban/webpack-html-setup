@@ -6,9 +6,7 @@ clone the repository
 Step 2:
 >npm i
 
->npm build
-
->npm install
+>npm run start
 
 Reference:
 https://www.sitepoint.com/beginners-guide-webpack-module-bundling/
