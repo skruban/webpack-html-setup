@@ -1,12 +1,2 @@
-*To run*
-
-Step 1:
-clone the repository
-
-Step 2:
->npm i
-
->npm run start
-
-Reference:
-https://www.sitepoint.com/beginners-guide-webpack-module-bundling/
+1. webpack will insert the asset
+2. webpack-dev-server never write in hardisk, all files file will be saved in memory.
