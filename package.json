@@ -7,8 +7,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server src/index.js -o public/main.js --mode=development --contentBase=public --port=9000"
   },
   "dependencies": {
     "react": "^16.13.0",
